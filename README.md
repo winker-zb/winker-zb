@@ -5,7 +5,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,supabase,postgres,vercel,githubactions&theme=dark">
-    <img alt="TypeScript, JavaScript, Next.js, React, Tailwind CSS, Supabase, PostgreSQL, Vercel, GitHub Actions" src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,supabase,postgres,vercel,githubactions&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cnextjs%2Creact%2Ctailwind%2Csupabase%2Cpostgres%2Cvercel%2Cgithubactions&theme=dark">
+    <img alt="TypeScript, JavaScript, Next.js, React, Tailwind CSS, Supabase, PostgreSQL, Vercel, GitHub Actions" src="https://skillicons.dev/icons?i=ts%2Cjs%2Cnextjs%2Creact%2Ctailwind%2Csupabase%2Cpostgres%2Cvercel%2Cgithubactions&theme=light">
   </picture>
 </p>
