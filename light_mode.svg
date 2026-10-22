@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1055" height="542" viewBox="0 0 1055 542" font-family="ConsolasFallback,Consolas,SFMono-Regular,Menlo,Monaco,'Liberation Mono','Courier New',monospace" font-size="16px">
+<title>winker-zb</title>
+<style>.key{fill:#1a7f37}.value{fill:#1f2328}.dots{fill:#afb8c1}.head{fill:#116329;font-weight:bold}.txt{fill:#1f2328}text,tspan{white-space:pre}.l{opacity:0;fill:#1a7f37;animation:imprime .6s ease-out forwards}@keyframes imprime{0%{opacity:1;fill:#6fdd8b}100%{opacity:1;fill:#1a7f37}}.st{opacity:0;fill:#1a7f37;animation-name:janela;animation-timing-function:linear}.st.fim{animation:fica .01s linear forwards}@keyframes janela{from{opacity:1}to{opacity:1}}@keyframes fica{to{opacity:1}}@media (prefers-reduced-motion:reduce){.l{animation:none;opacity:1}.st{animation:none}.st.fim{animation:none;opacity:1}}</style>
+<rect x="0.5" y="0.5" width="1054" height="541" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="46.4" y="55.2" font-size="7.35px" xml:space="preserve">
+<tspan class="l" style="animation-delay:0.400s" x="46.4" y="55.2"></tspan>
+<tspan class="l" style="animation-delay:0.459s" x="46.4" y="63.09"></tspan>
+<tspan class="l" style="animation-delay:0.519s" x="46.4" y="70.98"></tspan>
+<tspan class="l" style="animation-delay:0.578s" x="46.4" y="78.87"></tspan>
+<tspan class="l" style="animation-delay:0.637s" x="46.4" y="86.76"></tspan>
+<tspan class="l" style="animation-delay:0.696s" x="46.4" y="94.65"></tspan>
+<tspan class="l" style="animation-delay:0.756s" x="46.4" y="102.54"></tspan>
+<tspan class="l" style="animation-delay:0.815s" x="46.4" y="110.43">                                               .       .</tspan>
+<tspan class="l" style="animation-delay:0.874s" x="46.4" y="118.32">                                                 :#+:..=+..:.         .</tspan>
+<tspan class="l" style="animation-delay:0.933s" x="46.4" y="126.21">                                         . .:*@@@@@@@@@@@@@@@@@@@@@%*+**#-.. ..</tspan>
+<tspan class="l" style="animation-delay:0.993s" x="46.4" y="134.1">                                        .=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@#%@@+..*:..</tspan>
+<tspan class="l" style="animation-delay:1.052s" x="46.4" y="141.99">                                      .*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-:+..</tspan>
+<tspan class="l" style="animation-delay:1.111s" x="46.4" y="149.88">                                    .+@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%=+.-.</tspan>
+<tspan class="l" style="animation-delay:1.170s" x="46.4" y="157.77">                                  .-@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@#*.-.</tspan>
+<tspan class="l" style="animation-delay:1.230s" x="46.4" y="165.66">                                 .+@@@@%@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@%%@@@@@#*=..</tspan>
+<tspan class="l" style="animation-delay:1.289s" x="46.4" y="173.55">                              . .#@@@@@@@%@@%@@@@@@%@@@@@@@@@@@@@%@%@@@@@@@@@@@#...</tspan>
+<tspan class="l" style="animation-delay:1.348s" x="46.4" y="181.44">                                *@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#**+====+*#@@@%*=: .</tspan>
+<tspan class="l" style="animation-delay:1.407s" x="46.4" y="189.33">                               -@@@@@@@@@%@%@@@@@@@@@@@@@@@@%*=-:-----===*%@%#.</tspan>
+<tspan class="l" style="animation-delay:1.467s" x="46.4" y="197.22">                              .%@@@@@@@@@@@@@@@@@@@@@@@@@@@%%*=-::::::-==+*@+-.</tspan>
+<tspan class="l" style="animation-delay:1.526s" x="46.4" y="205.11">                              -@@@@@@@@@@@@@@@@@@@@@@@@%%%##==--:::::---=+*+:.</tspan>
+<tspan class="l" style="animation-delay:1.585s" x="46.4" y="213.0">                              +@@@@@@@@@@%@@%@@@@@%%%##+++--::::::::::--=++-.</tspan>
+<tspan class="l" style="animation-delay:1.644s" x="46.4" y="220.89">                             .+@%@@@@@@@@%%@@@%@%%%%*+--:--:::---=---::--=+*.</tspan>
+<tspan class="l" style="animation-delay:1.704s" x="46.4" y="228.78">                              =@@@@@%@@+--===##%%%%%*=--::---++=-=+*#*=====*+..</tspan>
+<tspan class="l" style="animation-delay:1.763s" x="46.4" y="236.67">                              .@@@@@%@#:-::==:-*%%%*+=--::-:::::-=+*+*#*==%%-.</tspan>
+<tspan class="l" style="animation-delay:1.822s" x="46.4" y="244.56">                               =@@@@%@@-=::=++-=###+=---::::::=++==#%+-::+*-:.</tspan>
+<tspan class="l" style="animation-delay:1.881s" x="46.4" y="252.45">                               :@@@@%@@#=-::#-:-+*+==---:::::::---=++---:==...</tspan>
+<tspan class="l" style="animation-delay:1.941s" x="46.4" y="260.34">                                -@@@@@@@*==:-=:-+*+===--:::.::::--------:::.</tspan>
+<tspan class="l" style="animation-delay:2.000s" x="46.4" y="268.23">                                 -@@@@@@@+::.:-==++====-:::...:::---::::::-..</tspan>
+<tspan class="l" style="animation-delay:2.059s" x="46.4" y="276.12">                                  =@%@@@@@*:..+++++====-::::...::::-----:::=. .</tspan>
+<tspan class="l" style="animation-delay:2.119s" x="46.4" y="284.01">                                  .=@@@@@@@@%%%#*++==---:::::...::--=----:::-..</tspan>
+<tspan class="l" style="animation-delay:2.178s" x="46.4" y="291.9">                                    #@@@@@@%#%@%*++=---::::::::::-:::===*-:-:</tspan>
+<tspan class="l" style="animation-delay:2.237s" x="46.4" y="299.79">                                   .+@@@@@%###@@#*==---:::::::::-:::::-=+*-..</tspan>
+<tspan class="l" style="animation-delay:2.296s" x="46.4" y="307.68">                                    .@@@@%##**@@%*+=----:::::::-++=====+++.</tspan>
+<tspan class="l" style="animation-delay:2.356s" x="46.4" y="315.57">                               .  ..*@@@@%#**+*@@%*=-==--::::::-::-=-=++=</tspan>
+<tspan class="l" style="animation-delay:2.415s" x="46.4" y="323.46">                                .=#%@@%%%%#*+++*@@@#+===------:::::::-=+=.</tspan>
+<tspan class="l" style="animation-delay:2.474s" x="46.4" y="331.35">                           ..-%@@%@%@%#####*+==++*#@@@%*+=---:::::::-===.</tspan>
+<tspan class="l" style="animation-delay:2.533s" x="46.4" y="339.24">                      ..-#%@@@@@@@###*******+=--=====+*%@%#+=-::::::--=-.</tspan>
+<tspan class="l" style="animation-delay:2.593s" x="46.4" y="347.13">               ...-+%@@@@@@@@@@@@@*++++****++=--====---=#@@@%*+--:::--=:</tspan>
+<tspan class="l" style="animation-delay:2.652s" x="46.4" y="355.02">            .=#@@@@@@@@@@@@@@@@@@@@+===++**++=----===-=*++%@@@@@%*++*%@@%:  ..</tspan>
+<tspan class="l" style="animation-delay:2.711s" x="46.4" y="362.91">     ..:=+#%@@@@@@@@@@@@@@@@@@@@@@@@=--=++===-------===---=+#@@@@@@@@@@@@@@%+.</tspan>
+<tspan class="l" style="animation-delay:2.770s" x="46.4" y="370.8"> ..:=*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+--+=--==---------:---+@@@@@@@@@@@@@@@@@@@=..</tspan>
+<tspan class="l" style="animation-delay:2.830s" x="46.4" y="378.69">-+*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%==:::---------::---#@@@@@@@@@@@@@@@@@@@@@@@#:.</tspan>
+<tspan class="l" style="animation-delay:2.889s" x="46.4" y="386.58">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=:::-::-::::::-*@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.</tspan>
+<tspan class="l" style="animation-delay:2.948s" x="46.4" y="394.47">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=::::::::-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:.</tspan>
+<tspan class="l" style="animation-delay:3.007s" x="46.4" y="402.36">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+.</tspan>
+<tspan class="l" style="animation-delay:3.067s" x="46.4" y="410.25">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:.</tspan>
+<tspan class="l" style="animation-delay:3.126s" x="46.4" y="418.14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.</tspan>
+<tspan class="l" style="animation-delay:3.185s" x="46.4" y="426.03">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#.</tspan>
+<tspan class="l" style="animation-delay:3.244s" x="46.4" y="433.92">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.</tspan>
+<tspan class="l" style="animation-delay:3.304s" x="46.4" y="441.81">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.</tspan>
+<tspan class="l" style="animation-delay:3.363s" x="46.4" y="449.7">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..</tspan>
+<tspan class="l" style="animation-delay:3.422s" x="46.4" y="457.59">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:</tspan>
+<tspan class="l" style="animation-delay:3.481s" x="46.4" y="465.48">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:</tspan>
+<tspan class="l" style="animation-delay:3.541s" x="46.4" y="473.37">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:</tspan>
+</text>
+<text class="st" style="animation-delay:0.000s;animation-duration:0.400s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 0/54  [printing 0%]</text>
+<text class="st" style="animation-delay:0.400s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 1/54  [printing 2%]</text>
+<text class="st" style="animation-delay:0.459s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 2/54  [printing 4%]</text>
+<text class="st" style="animation-delay:0.519s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 3/54  [printing 6%]</text>
+<text class="st" style="animation-delay:0.578s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 4/54  [printing 7%]</text>
+<text class="st" style="animation-delay:0.637s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 5/54  [printing 9%]</text>
+<text class="st" style="animation-delay:0.696s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 6/54  [printing 11%]</text>
+<text class="st" style="animation-delay:0.756s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 7/54  [printing 13%]</text>
+<text class="st" style="animation-delay:0.815s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 8/54  [printing 15%]</text>
+<text class="st" style="animation-delay:0.874s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 9/54  [printing 17%]</text>
+<text class="st" style="animation-delay:0.933s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 10/54  [printing 19%]</text>
+<text class="st" style="animation-delay:0.993s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 11/54  [printing 20%]</text>
+<text class="st" style="animation-delay:1.052s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 12/54  [printing 22%]</text>
+<text class="st" style="animation-delay:1.111s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 13/54  [printing 24%]</text>
+<text class="st" style="animation-delay:1.170s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 14/54  [printing 26%]</text>
+<text class="st" style="animation-delay:1.230s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 15/54  [printing 28%]</text>
+<text class="st" style="animation-delay:1.289s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 16/54  [printing 30%]</text>
+<text class="st" style="animation-delay:1.348s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 17/54  [printing 31%]</text>
+<text class="st" style="animation-delay:1.407s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 18/54  [printing 33%]</text>
+<text class="st" style="animation-delay:1.467s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 19/54  [printing 35%]</text>
+<text class="st" style="animation-delay:1.526s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 20/54  [printing 37%]</text>
+<text class="st" style="animation-delay:1.585s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 21/54  [printing 39%]</text>
+<text class="st" style="animation-delay:1.644s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 22/54  [printing 41%]</text>
+<text class="st" style="animation-delay:1.704s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 23/54  [printing 43%]</text>
+<text class="st" style="animation-delay:1.763s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 24/54  [printing 44%]</text>
+<text class="st" style="animation-delay:1.822s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 25/54  [printing 46%]</text>
+<text class="st" style="animation-delay:1.881s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 26/54  [printing 48%]</text>
+<text class="st" style="animation-delay:1.941s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 27/54  [printing 50%]</text>
+<text class="st" style="animation-delay:2.000s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 28/54  [printing 52%]</text>
+<text class="st" style="animation-delay:2.059s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 29/54  [printing 54%]</text>
+<text class="st" style="animation-delay:2.119s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 30/54  [printing 56%]</text>
+<text class="st" style="animation-delay:2.178s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 31/54  [printing 57%]</text>
+<text class="st" style="animation-delay:2.237s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 32/54  [printing 59%]</text>
+<text class="st" style="animation-delay:2.296s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 33/54  [printing 61%]</text>
+<text class="st" style="animation-delay:2.356s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 34/54  [printing 63%]</text>
+<text class="st" style="animation-delay:2.415s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 35/54  [printing 65%]</text>
+<text class="st" style="animation-delay:2.474s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 36/54  [printing 67%]</text>
+<text class="st" style="animation-delay:2.533s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 37/54  [printing 69%]</text>
+<text class="st" style="animation-delay:2.593s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 38/54  [printing 70%]</text>
+<text class="st" style="animation-delay:2.652s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 39/54  [printing 72%]</text>
+<text class="st" style="animation-delay:2.711s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 40/54  [printing 74%]</text>
+<text class="st" style="animation-delay:2.770s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 41/54  [printing 76%]</text>
+<text class="st" style="animation-delay:2.830s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 42/54  [printing 78%]</text>
+<text class="st" style="animation-delay:2.889s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 43/54  [printing 80%]</text>
+<text class="st" style="animation-delay:2.948s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 44/54  [printing 81%]</text>
+<text class="st" style="animation-delay:3.007s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 45/54  [printing 83%]</text>
+<text class="st" style="animation-delay:3.067s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 46/54  [printing 85%]</text>
+<text class="st" style="animation-delay:3.126s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 47/54  [printing 87%]</text>
+<text class="st" style="animation-delay:3.185s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 48/54  [printing 89%]</text>
+<text class="st" style="animation-delay:3.244s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 49/54  [printing 91%]</text>
+<text class="st" style="animation-delay:3.304s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 50/54  [printing 93%]</text>
+<text class="st" style="animation-delay:3.363s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 51/54  [printing 94%]</text>
+<text class="st" style="animation-delay:3.422s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 52/54  [printing 96%]</text>
+<text class="st" style="animation-delay:3.481s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 53/54  [printing 98%]</text>
+<text class="st fim" style="animation-delay:3.541s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  54/54 lines  [done]</text>
+<text x="481" y="38" xml:space="preserve">
+<tspan x="481" y="38"><tspan class="head">winker-zb</tspan><tspan class="txt">@</tspan><tspan class="head">github</tspan><tspan class="dots"> ───────────────────────────────────────</tspan></tspan>
+<tspan x="481" y="58"><tspan class="key">Role</tspan><tspan class="txt">: </tspan><tspan class="dots">................... </tspan><tspan class="value">Founder &amp; builder</tspan></tspan>
+<tspan x="481" y="78"><tspan class="key">Host</tspan><tspan class="txt">: </tspan><tspan class="dots">................... </tspan><tspan class="value">ZAMA GROUP</tspan></tspan>
+<tspan x="481" y="98"><tspan class="key">OS</tspan><tspan class="txt">: </tspan><tspan class="dots">..................... </tspan><tspan class="value">Windows 11</tspan></tspan>
+<tspan x="481" y="118"><tspan class="key">IDE</tspan><tspan class="txt">: </tspan><tspan class="dots">.................... </tspan><tspan class="value">Claude Code</tspan></tspan>
+<tspan x="481" y="158"><tspan class="key">Languages</tspan><tspan class="txt">: </tspan><tspan class="dots">.............. </tspan><tspan class="value">TypeScript, SQL, JavaScript</tspan></tspan>
+<tspan x="481" y="178"><tspan class="key">Stack.Web</tspan><tspan class="txt">: </tspan><tspan class="dots">.............. </tspan><tspan class="value">Next.js, React, Tailwind CSS</tspan></tspan>
+<tspan x="481" y="198"><tspan class="key">Stack.Data</tspan><tspan class="txt">: </tspan><tspan class="dots">............. </tspan><tspan class="value">Supabase, PostgreSQL</tspan></tspan>
+<tspan x="481" y="218"><tspan class="key">Stack.Cloud</tspan><tspan class="txt">: </tspan><tspan class="dots">............ </tspan><tspan class="value">Vercel, GitHub Actions</tspan></tspan>
+<tspan x="481" y="258"><tspan class="txt">- </tspan><tspan class="key">Projects</tspan><tspan class="dots"> ─────────────────────────────────────────────</tspan></tspan>
+<tspan x="481" y="278"><tspan class="key">ZAMA</tspan><tspan class="txt">: </tspan><tspan class="dots">................... </tspan><tspan class="value">Commerce OS for fashion retail</tspan></tspan>
+<tspan x="481" y="298"><tspan class="txt">                          </tspan><tspan class="value">storefront · POS · inventory</tspan></tspan>
+<tspan x="481" y="318"><tspan class="key">NANIS</tspan><tspan class="txt">: </tspan><tspan class="dots">.................. </tspan><tspan class="value">Self-discovery through the</tspan></tspan>
+<tspan x="481" y="338"><tspan class="txt">                          </tspan><tspan class="value">universe, astrology &amp; arcana</tspan></tspan>
+<tspan x="481" y="358"><tspan class="key">Next</tspan><tspan class="txt">: </tspan><tspan class="dots">................... </tspan><tspan class="value">more in the making</tspan></tspan>
+<tspan x="481" y="398"><tspan class="txt">- </tspan><tspan class="key">Focus</tspan><tspan class="dots"> ────────────────────────────────────────────────</tspan></tspan>
+<tspan x="481" y="418"><tspan class="key">Building</tspan><tspan class="txt">: </tspan><tspan class="dots">............... </tspan><tspan class="value">Multi-tenant SaaS, payments</tspan></tspan>
+<tspan x="481" y="438"><tspan class="key">Exploring</tspan><tspan class="txt">: </tspan><tspan class="dots">.............. </tspan><tspan class="value">AI-assisted engineering</tspan></tspan>
+<tspan x="481" y="478"><tspan class="txt">- </tspan><tspan class="key">GitHub Stats</tspan><tspan class="dots"> ─────────────────────────────────────────</tspan></tspan>
+<tspan x="481" y="498"><tspan class="key">Contributions</tspan><tspan class="txt">: </tspan><tspan class="dots">.......... </tspan><tspan class="value">2,569 (last 12 months)</tspan></tspan>
+<tspan x="481" y="518"><tspan class="key">Commits</tspan><tspan class="txt">: </tspan><tspan class="dots">................ </tspan><tspan class="value">2,212 (last 12 months)</tspan></tspan>
+</text>
+</svg>
