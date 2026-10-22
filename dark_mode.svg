@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1055" height="542" viewBox="0 0 1055 542" font-family="ConsolasFallback,Consolas,SFMono-Regular,Menlo,Monaco,'Liberation Mono','Courier New',monospace" font-size="16px">
 <title>winker-zb</title>
-<style>.key{fill:#3fb950}.value{fill:#e6edf3}.dots{fill:#3d444d}.head{fill:#56d364;font-weight:bold}.txt{fill:#e6edf3}text,tspan{white-space:pre}.l{opacity:0;fill:#3fb950;animation:imprime .6s ease-out forwards}@keyframes imprime{0%{opacity:1;fill:#d2ffd8}100%{opacity:1;fill:#3fb950}}.st{opacity:0;fill:#3fb950;animation-name:janela;animation-timing-function:linear}.st.fim{animation:fica .01s linear forwards}@keyframes janela{from{opacity:1}to{opacity:1}}@keyframes fica{to{opacity:1}}@media (prefers-reduced-motion:reduce){.l{animation:none;opacity:1}.st{animation:none}.st.fim{animation:none;opacity:1}}</style>
+<style>.key{fill:#3fb950}.value{fill:#e6edf3}.dots{fill:#3d444d}.head{fill:#56d364;font-weight:bold}.txt{fill:#e6edf3}text,tspan{white-space:pre}.l{opacity:0;fill:#3fb950;animation:print .6s ease-out forwards}@keyframes print{0%{opacity:1;fill:#d2ffd8}100%{opacity:1;fill:#3fb950}}.st{opacity:0;fill:#3fb950;animation-name:slot;animation-timing-function:linear}.st.done{animation:stay .01s linear forwards}@keyframes slot{from{opacity:1}to{opacity:1}}@keyframes stay{to{opacity:1}}@media (prefers-reduced-motion:reduce){.l{animation:none;opacity:1}.st{animation:none}.st.done{animation:none;opacity:1}}</style>
 <rect x="0.5" y="0.5" width="1054" height="541" rx="12" fill="#0d1117" stroke="#30363d"/>
 <text x="46.4" y="55.2" font-size="7.35px" xml:space="preserve">
 <tspan class="l" style="animation-delay:0.400s" x="46.4" y="55.2">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -113,7 +113,7 @@
 <text class="st" style="animation-delay:3.363s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 51/54  [printing 94%]</text>
 <text class="st" style="animation-delay:3.422s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 52/54  [printing 96%]</text>
 <text class="st" style="animation-delay:3.481s;animation-duration:0.059s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  line 53/54  [printing 98%]</text>
-<text class="st fim" style="animation-delay:3.541s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  54/54 lines  [done]</text>
+<text class="st done" style="animation-delay:3.541s" x="28" y="518" font-size="11px" xml:space="preserve">&gt; portrait.svg  54/54 lines  [done]</text>
 <text x="481" y="38" xml:space="preserve">
 <tspan x="481" y="38"><tspan class="head">winker-zb</tspan><tspan class="txt">@</tspan><tspan class="head">github</tspan><tspan class="dots"> ───────────────────────────────────────</tspan></tspan>
 <tspan x="481" y="58"><tspan class="key">Role</tspan><tspan class="txt">: </tspan><tspan class="dots">................... </tspan><tspan class="value">Founder &amp; builder</tspan></tspan>
@@ -134,7 +134,7 @@
 <tspan x="481" y="418"><tspan class="key">Building</tspan><tspan class="txt">: </tspan><tspan class="dots">............... </tspan><tspan class="value">Multi-tenant SaaS, payments</tspan></tspan>
 <tspan x="481" y="438"><tspan class="key">Exploring</tspan><tspan class="txt">: </tspan><tspan class="dots">.............. </tspan><tspan class="value">AI-assisted engineering</tspan></tspan>
 <tspan x="481" y="478"><tspan class="txt">- </tspan><tspan class="key">GitHub Stats</tspan><tspan class="dots"> ─────────────────────────────────────────</tspan></tspan>
-<tspan x="481" y="498"><tspan class="key">Contributions</tspan><tspan class="txt">: </tspan><tspan class="dots">.......... </tspan><tspan class="value">2,569 (last 12 months)</tspan></tspan>
-<tspan x="481" y="518"><tspan class="key">Commits</tspan><tspan class="txt">: </tspan><tspan class="dots">................ </tspan><tspan class="value">2,212 (last 12 months)</tspan></tspan>
+<tspan x="481" y="498"><tspan class="key">Contributions</tspan><tspan class="txt">: </tspan><tspan class="dots">.......... </tspan><tspan class="value">2,574 (last 12 months)</tspan></tspan>
+<tspan x="481" y="518"><tspan class="key">Commits</tspan><tspan class="txt">: </tspan><tspan class="dots">................ </tspan><tspan class="value">2,217 (last 12 months)</tspan></tspan>
 </text>
 </svg>
